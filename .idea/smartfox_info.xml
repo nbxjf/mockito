@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SmartFoxProjectConfig">
+    <option name="inspectionProfileModifiedSet">
+      <set>
+        <option value="AliAccessStaticViaInstance" />
+        <option value="AliAccessToNonThreadSafeStaticFieldFromInstance" />
+        <option value="AliArrayNamingShouldHaveBracket" />
+        <option value="AliControlFlowStatementWithoutBraces" />
+        <option value="AliDeprecation" />
+        <option value="AliEqualsAvoidNull" />
+        <option value="AliLongLiteralsEndingWithLowercaseL" />
+        <option value="AliMissingOverrideAnnotation" />
+        <option value="AliWrapperTypeEquality" />
+        <option value="MapOrSetKeyShouldOverrideHashCodeEquals" />
+        <option value="YitAbstractClassShouldStartWithAbstractNaming" />
+        <option value="YitAbstractMethodOrInterfaceMethodMustUseJavadoc" />
+        <option value="YitAvoidApacheBeanUtilsCopy" />
+        <option value="YitAvoidCommentBehindStatement" />
+        <option value="YitAvoidManuallyCreateThread" />
+        <option value="YitAvoidNewDateGetTime" />
+        <option value="YitAvoidPatternCompileInMethod" />
+        <option value="YitAvoidStartWithDollarAndUnderLineNaming" />
+        <option value="YitAvoidUseTimer" />
+        <option value="YitBooleanPropertyShouldNotStartWithIs" />
+        <option value="YitClassCastExceptionWithSubListToArrayList" />
+        <option value="YitClassCastExceptionWithToArray" />
+        <option value="YitClassMustHaveAuthor" />
+        <option value="YitClassNamingShouldBeCamel" />
+        <option value="YitCommentsMustBeJavadocFormat" />
+        <option value="YitConcurrentExceptionWithModifyOriginSubList" />
+        <option value="YitConstantFieldShouldBeUpperCase" />
+        <option value="YitDontModifyInForeachCircle" />
+        <option value="YitEnumConstantsMustBeUppercase" />
+        <option value="YitEnumConstantsMustHaveComment" />
+        <option value="YitExceptionClassShouldEndWithException" />
+        <option value="YitLowerCamelCaseVariableNaming" />
+        <option value="YitPackageNaming" />
+        <option value="YitPojoMustOverrideToString" />
+        <option value="YitPojoNoDefaultValue" />
+        <option value="YitServiceOrDaoClassShouldEndWithImpl" />
+        <option value="YitSwitchStatement" />
+        <option value="YitTestClassShouldEndWithTestNaming" />
+        <option value="YitThreadPoolCreation" />
+        <option value="YitThreadShouldSetName" />
+        <option value="YitUndefineMagicConstant" />
+        <option value="YitUnsupportedExceptionWithModifyAsList" />
+        <option value="YitUseQuietReferenceNotation" />
+      </set>
+    </option>
+  </component>
+</project>

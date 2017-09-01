@@ -1,0 +1,134 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AliAccessStaticViaInstance" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AliAccessToNonThreadSafeStaticFieldFromInstance" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AliArrayNamingShouldHaveBracket" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AliControlFlowStatementWithoutBraces" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AliDeprecation" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AliEqualsAvoidNull" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AliLongLiteralsEndingWithLowercaseL" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AliMissingOverrideAnnotation" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AliWrapperTypeEquality" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MapOrSetKeyShouldOverrideHashCodeEquals" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitAbstractClassShouldStartWithAbstractNaming" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitAbstractMethodOrInterfaceMethodMustUseJavadoc" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitAvoidApacheBeanUtilsCopy" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitAvoidCommentBehindStatement" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitAvoidManuallyCreateThread" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitAvoidNewDateGetTime" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitAvoidPatternCompileInMethod" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitAvoidStartWithDollarAndUnderLineNaming" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitAvoidUseTimer" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitBooleanPropertyShouldNotStartWithIs" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitClassCastExceptionWithSubListToArrayList" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitClassCastExceptionWithToArray" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitClassMustHaveAuthor" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitClassNamingShouldBeCamel" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitCommentsMustBeJavadocFormat" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitConcurrentExceptionWithModifyOriginSubList" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitConstantFieldShouldBeUpperCase" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitDontModifyInForeachCircle" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitEnumConstantsMustBeUppercase" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitEnumConstantsMustHaveComment" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitExceptionClassShouldEndWithException" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitLowerCamelCaseVariableNaming" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitPackageNaming" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitPojoMustOverrideToString" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitPojoNoDefaultValue" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitServiceOrDaoClassShouldEndWithImpl" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitSwitchStatement" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitTestClassShouldEndWithTestNaming" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitThreadPoolCreation" enabled="true" level="BLOCKER" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitThreadShouldSetName" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitUndefineMagicConstant" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitUnsupportedExceptionWithModifyAsList" enabled="true" level="CRITICAL" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="CRITICAL" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="YitUseQuietReferenceNotation" enabled="true" level="MAJOR" enabled_by_default="false">
+      <scope name="YitCodeAnalysis" level="MAJOR" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>
