@@ -19,6 +19,13 @@ public class Mockito {
     private static Map<Invocation, Object> results = new HashMap<Invocation, Object>();
     private static Invocation lastInvocation;
 
+    /**
+     * 根据class对象创建该对象的代理对象
+     * 1、设置父类；2、设置回调
+     * 本质：动态创建了一个class对象的子类
+     *
+     * @return
+     */
     public static <T> T mock(Class<T> clazz) {
         Enhancer enhancer = new Enhancer();
         enhancer.setSuperclass(clazz);
